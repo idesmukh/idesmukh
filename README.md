@@ -1,5 +1,3 @@
-# Ibad Desmukh
-
 I am a systems software engineer, deeply interested in using computers to solve problems for benefiting humanity. I have been writing programs since I was 10 years old. I received a Master of Science (MSc) degree in Computing and Information Systems with Distinction, from Queen Mary University of London in 2024. There, I dove into exploring advanced computer architecture, algorithms, and low-level programming. I live in Liverpool, United Kingdom.
 
 > Still round the corner there may wait  
