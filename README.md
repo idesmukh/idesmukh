@@ -1,6 +1,6 @@
 Hi there!
 
-I'm Muhammad Ibad Desmukh, a Software Engineer and Open Source Contributor holding an MSc in Computing and Information Systems with Distinction. I specialize in machine learning and cloud platforms, with a focus on MLOps and scalable AI infrastructure.
+I'm Muhammad Ibad Desmukh, a Software Engineer and Open Source Contributor holding an MSc Computing and Information Systems degree with Distinction. Expert in machine learning and cloud platforms, with a focus on MLOps and scalable AI infrastructure.
 
 * **Portfolio:** https://idesmukh.github.io
 * **LinkedIn:** https://www.linkedin.com/in/idesmukh
