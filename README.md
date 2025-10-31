@@ -11,7 +11,7 @@ I'm Muhammad Ibad Desmukh, a Software Engineer and Open Source Contributor holdi
 
 * **Programming Languages:** C, Python, SQL
 * **AI and Machine Learning:** PyTorch, scikit-learn, pandas, NumPy
-* **DevOps and MLOps:** Amazon Web Services (AWS), Docker, Linux, Git, Bash, AWK, pytest
+* **DevOps and MLOps:** Amazon Web Services (AWS), Docker, FastAPI, Linux, Git, Bash, AWK, pytest
 * **Databases:** Oracle Object-Relational Database Management System (ORDBMS)
 
 ---
@@ -21,7 +21,7 @@ I'm Muhammad Ibad Desmukh, a Software Engineer and Open Source Contributor holdi
 **Fault-Tolerant ML Training System (Solar Power Forecasting)**
 * Engineered a production-ready machine learning training system with atomic write checkpointing for fault-tolerant LSTM solar power forecasting.
 * Implemented automatic state recovery, preserving model and optimizer states for cost-effective training on Amazon Web Services (AWS).
-* *Technologies:* PyTorch, pytest, AWS
+* *Technologies:* PyTorch, pytest, Docker, FastAPI, AWS
 
 **Linux Server Monitoring Tool**
 * Created a Linux-based server monitoring tool for parsing system metrics.
